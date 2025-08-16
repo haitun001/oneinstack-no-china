@@ -898,7 +898,7 @@ fi
 
 # get the IP information
 IPADDR=$(./include/ois.${ARCH} ip_local)
-OUTIP_STATE=$(./include/ois.${ARCH} ip_state)
+OUTIP_STATE="Other"
 
 # openSSL
 . ./include/openssl.sh

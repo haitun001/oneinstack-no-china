@@ -1,5 +1,6 @@
 [English](README.md) | [中文](README.zh-CN.md)
 
+完全去掉了China来源，中国大陆VPS请保证自己有良好的网络连接条件在使用。
 此脚本使用shell编写，用于快速部署`LEMP`/`LAMP`/`LNMP`/`LNMPA`/`LTMP`（Linux、Nginx/Tengine/OpenResty、MySQL/MariaDB/Percona、PHP、JAVA）环境，适用于64位的RHEL 7、8、9（包括CentOS、RedHat、AlmaLinux、Rocky）、Debian 9、10、11、12、Ubuntu 16、18、20、22和Fedora 27+。
 
 脚本特点：
